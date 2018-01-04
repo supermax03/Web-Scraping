@@ -1,0 +1,31 @@
+                   places  temperatures          description
+29                Ushuaia             8  overcast-light-rain
+1               Bariloche             9     overcast-showers
+19           Río Gallegos            12        partly-cloudy
+11          Mar del Plata            22        partly-cloudy
+28                 Trelew            24             overcast
+4      Comodoro Rivadavia            24        partly-cloudy
+13                Neuquén            26        partly-cloudy
+0            Bahía Blanca            26             overcast
+26             Santa Rosa            28        partly-cloudy
+3         Ciudad de Salta            28        partly-cloudy
+24  San Salvador de Jujuy            29        partly-cloudy
+22  San Miguel de Tucumán            30         mostly-clear
+8                 Formosa            31        partly-cloudy
+21               San Luis            31        partly-cloudy
+15                Posadas            32        partly-cloudy
+14                 Paraná            32            cloudless
+6              Corrientes            32        partly-cloudy
+16            Resistencia            33        partly-cloudy
+10               La Rioja            33               cloudy
+25               Santa Fe            33            cloudless
+5               Concordia            33            cloudless
+2            Buenos Aires            34        partly-cloudy
+9                La Plata            34        partly-cloudy
+17                Rosario            35        partly-cloudy
+7                 Córdoba            35        partly-cloudy
+23             San Rafael            35         mostly-clear
+27    Santiago del Estero            35             overcast
+18             Río Cuarto            35        partly-cloudy
+12                Mendoza            37        partly-cloudy
+20               San Juan            38         mostly-clear
