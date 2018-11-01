@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import urllib.request
 
+
 data_columns = ["places", "temperatures", "description"]
 
 def scrap_weather_web_site():
